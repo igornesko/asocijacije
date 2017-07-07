@@ -1,2 +1,2 @@
-# asocijacije
-Asocijacije
+#USH
+Repozitorijum za aplikacije u USH-u
